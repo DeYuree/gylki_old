@@ -73,7 +73,8 @@ export default {
 
 	router: {
 		prefetchLinks: false,
-		base: '/deyuree.github.io/'
+		//base: '/gylki/'
+		base: './'
 	},
 
 	// custom styles in components
@@ -128,6 +129,7 @@ export default {
 	*/
 	vuetify: {
 		//customVariables: ['~/assets/variables.scss'],
+		//treeShake: true,
 		defaultAssets: false,
 		theme: {
 			dark: false,
@@ -153,6 +155,7 @@ export default {
 	*/
 	build: {
 		optimizeCss: false,
+		extractCSS: false,
 		filenames: {
 			app: ({ isDev }) => isDev ? '[name].js' : 'js/[contenthash].js',
 			chunk: ({ isDev }) => isDev ? '[name].js' : 'js/[contenthash].js',
@@ -176,19 +179,19 @@ export default {
 				}
 			}
 		}),
-		splitChunks: {
-			layouts: true,
-			pages: true,
-			commons: true
-		},
-		optimization: {
-			minimize: !isDev
-		},
-		...(!isDev && {
-			extractCSS: {
-				ignoreOrder: true
-			}
-		}),
+		// splitChunks: {
+		// 	layouts: true,
+		// 	pages: true,
+		// 	commons: true
+		// },
+		// optimization: {
+		// 	minimize: !isDev
+		// },
+		// ...(!isDev && {
+		// 	extractCSS: {
+		// 		ignoreOrder: true
+		// 	}
+		// }),
 
 		transpile: ['vue-lazy-hydration', 'intersection-observer'],
 		postcss: {
