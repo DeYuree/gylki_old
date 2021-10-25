@@ -1,0 +1,255 @@
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
+Route {
+  path: '/pages',
+  stack: [
+    Layer {
+      handle: [AsyncFunction (anonymous)],
+      name: '<anonymous>',
+      params: undefined,
+      path: undefined,
+      keys: [],
+      regexp: /^\/?$/i,
+      method: 'get'
+    }
+  ],
+  methods: { get: true }
+}
